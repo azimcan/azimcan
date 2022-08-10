@@ -17,7 +17,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/azimcan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/azimcan/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+</a>
 <a href="https://www.twitter.caom/azmcnkrc" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"/>
 </a>
