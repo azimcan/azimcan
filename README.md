@@ -1,6 +1,6 @@
 ### Hi there, I am Azim 👋
 <hr/>
-<img align="right" alt="GIF" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://dribbble.com/shots/2428506-Ruby-on-Rails-icon)" width="500"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/583077/screenshots/2428506/ror.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
