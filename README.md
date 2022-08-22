@@ -24,4 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"/>
 </a>
 
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=azimcan&show_icons=true&theme=radical" alt="azimcan" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimcan&layout=compact&hide=html&theme=radical" alt="azimcan"/>
+</p>
 
