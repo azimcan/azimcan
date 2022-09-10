@@ -11,7 +11,7 @@
 <br>
 <h3>🛠 Tech Kit </h3>
 
-- 💻 &nbsp; RUBY | PYTHON | Unity/C#
+- 💻 &nbsp; RUBY | PYTHON | UNITY/C#
 - 🌐 &nbsp; RUBY ON RAILS | HOTWIRE
 - 🔧 &nbsp; UNITY
 
