@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University.
-- 💼 &nbsp; I'm Full Stack Web Developer
+- 💼 &nbsp; I'm Junior Full Stack Web Developer
 - 💒 &nbsp; I live in Denizli/Turkey
 
 <br>
