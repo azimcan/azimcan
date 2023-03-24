@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/azimcan/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
-<a href="https://www.twitter.caom/azmcnkrc" target="_blank">
+<a href="https://www.twitter.com/azmcnkrc" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"/>
 </a>
 
