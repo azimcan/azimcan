@@ -17,12 +17,14 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/azimcan/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.twitter.com/azmcnkrc" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/azimcan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" />
+  </a>
+  <a href="https://www.twitter.com/azmcnkrc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="36" height="36"/>
+  </a>
+</div>
 
 ### :octocat: Github Statistics
 <p align="left">
