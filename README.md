@@ -14,4 +14,4 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
-[![CJ's github stats](https://github-readme-stats.vercel.app/api?username=azimcan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/cjavilla-stripe/github-readme-stats)
+[![CJ's github stats](https://github-readme-stats.vercel.app/api?username=azimcan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/azimcan/github-readme-stats)
