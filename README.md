@@ -2,11 +2,10 @@
 
 <img src="https://cdn.dribbble.com/users/583077/screenshots/2428506/ror.gif" width="360px" style="padding: 20px">
  
-// - 💳
-// - 🧪 
+<!--- - 💳 -->
+<!--- - 🧪 -->
 - 🥞 Coding in Ruby and on Rails
-// - 🌱
-// - ⌨️
+<!--- - 🌱 -->
 
 <a href="https://twitter.com/azmcnkrc" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
