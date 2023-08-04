@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=azimcan&show_icons=true&theme=radical" alt="azimcan" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimcan&layout=compact&hide=html&theme=radical" alt="azimcan"/>
+[![Azim's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimcan)](https://github.com/azimcan/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/azimcan"><img src="https://visitor-badge.laobi.icu/badge?page_id=azimcan&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
