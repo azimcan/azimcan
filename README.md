@@ -27,7 +27,4 @@
 </div>
 
 ### :octocat: Github Statistics
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=azimcan&show_icons=true&theme=radical" alt="azimcan" width="480" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimcan&layout=compact&hide=html&theme=radical" alt="azimcan"/>
-</p>
+https://github-readme-stats.vercel.app/api?username=azimcan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/cjavilla-stripe/github-readme-stats
