@@ -1,30 +1,18 @@
 ### Hi there, I am Azim 👋
-<hr/>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/583077/screenshots/2428506/ror.gif" width="400" loop="infinite" />
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img src="https://cdn.dribbble.com/users/583077/screenshots/2428506/ror.gif" width="360px" style="padding: 20px">
+ 
+// - 💳
+// - 🧪 
+- 🥞 Coding in Ruby and on Rails
+// - 🌱
+// - ⌨️
 
-- 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University.
-- 💼 &nbsp; I'm Junior Full Stack Web Developer
-- 💒 &nbsp; I live in Denizli/Turkey
+<a href="https://twitter.com/azmcnkrc" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a>
+<a href="https://www.linkedin.com/in/azimcan/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
 
-<br>
-<h3>🛠 Tech Kit </h3>
-
-- 💻 &nbsp; RUBY | PYTHON | UNITY/C#
-- 🌐 &nbsp; RUBY ON RAILS | HOTWIRE
-- 🔧 &nbsp; UNITY
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<div>
-  <a href="https://www.linkedin.com/in/azimcan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" />
-  </a>
-  <a href="https://www.twitter.com/azmcnkrc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="36" height="36"/>
-  </a>
-</div>
-
-### :octocat: Github Statistics
-https://github-readme-stats.vercel.app/api?username=azimcan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/cjavilla-stripe/github-readme-stats
+[![CJ's github stats](https://github-readme-stats.vercel.app/api?username=azimcan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/cjavilla-stripe/github-readme-stats)
