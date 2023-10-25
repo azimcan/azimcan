@@ -18,6 +18,3 @@
 <p align="right">
   <a href="https://github.com/azimcan"><img src="https://visitor-badge.laobi.icu/badge?page_id=azimcan&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 </p>
-
-<iframe src="http://public.lvh.me:3000/models/embed/X16gN6hfzffmc5bzatTiAKiE" title="3d ProBox Webviewer" width="100%" height="100%" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
-
