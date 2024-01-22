@@ -1,5 +1,5 @@
 ### Hi there, I am Azim 👋
- 
+ <!---
 <!--- - 💳 -->
 <!--- - 🧪 -->
 - 🥞 Coding in Ruby and on Rails
@@ -15,3 +15,4 @@
 <p align="right">
   <a href="https://github.com/azimcan"><img src="https://visitor-badge.laobi.icu/badge?page_id=azimcan&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 </p>
+-->
