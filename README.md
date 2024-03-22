@@ -1,8 +1,10 @@
 ### Hi there, I am Azim 👋
- <!---
+<img src="https://github.com/azimcan/azimcan/blob/master/_edda083c-6741-4d3c-b389-7e6f49ddfe68.jpeg" height=500>
+
+<!---
 - 🥞 Coding in Ruby and on Rails
 
-<img src="https://github.com/azimcan/azimcan/blob/master/_edda083c-6741-4d3c-b389-7e6f49ddfe68.jpeg" height=100>
+
 
 <a href="https://twitter.com/azmcnkrc" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
